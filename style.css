@@ -1,0 +1,11 @@
+.header {
+    background-color: rgb(238, 247, 247);
+    padding: 20px;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.avatar {
+    border-radius: 20px;
+}
